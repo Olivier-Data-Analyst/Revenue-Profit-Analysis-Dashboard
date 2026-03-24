@@ -37,7 +37,7 @@ The dataset includes:
 
 ## Access the Work
 - **Interactive Dashboard:** [View Dashboard](https://lookerstudio.google.com/s/kwRni6STt-U)  
-- **R Script & Analysis:** [View R Script](YOUR_R_SCRIPT_LINK)  
+- **R Script & Analysis:** [View R Script](https://raw.githubusercontent.com/Olivier-Data-Analyst/Revenue-Profit-Analysis-Dashboard/refs/heads/main/Analysis_script.R.R)
 
 ---
 
