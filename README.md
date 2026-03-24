@@ -1,5 +1,11 @@
 # Revenue & Profit Analysis Dashboard
 
+[![Dashboard](https://img.shields.io/badge/Dashboard-Live-blue)](https://lookerstudio.google.com/s/kwRni6STt-U)
+[![R Script](https://img.shields.io/badge/R-Script-green)](https://raw.githubusercontent.com/Olivier-Data-Analyst/Revenue-Profit-Analysis-Dashboard/refs/heads/main/Analysis_script.R.R)
+[![Dataset](https://img.shields.io/badge/Dataset-Google%20Sheets-orange)](https://docs.google.com/spreadsheets/d/1-w_x2bY9OQfbpBEEOZTOVU3vbIvWRfTLVNtz6ztKwB8/edit?gid=1388306923)
+
+---
+
 ## Overview
 This project presents a **dynamic, data-driven dashboard** analyzing revenue, costs, and profits across products, customers, and stores. It delivers **actionable insights** to optimize business strategies and enhance decision-making.
 
@@ -37,7 +43,8 @@ The dataset includes:
 
 ## Access the Work
 - **Interactive Dashboard:** [View Dashboard](https://lookerstudio.google.com/s/kwRni6STt-U)  
-- **R Script & Analysis:** [View R Script](https://raw.githubusercontent.com/Olivier-Data-Analyst/Revenue-Profit-Analysis-Dashboard/refs/heads/main/Analysis_script.R.R)
+- **R Script & Analysis:** [View R Script](https://raw.githubusercontent.com/Olivier-Data-Analyst/Revenue-Profit-Analysis-Dashboard/refs/heads/main/Analysis_script.R.R)  
+- **Dataset:** [Access the Dataset](https://docs.google.com/spreadsheets/d/1-w_x2bY9OQfbpBEEOZTOVU3vbIvWRfTLVNtz6ztKwB8/edit?gid=1388306923)
 
 ---
 
