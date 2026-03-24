@@ -36,7 +36,7 @@ The dataset includes:
 ---
 
 ## Access the Work
-- **Interactive Dashboard:** [View Dashboard](YOUR_DASHBOARD_LINK)  
+- **Interactive Dashboard:** [View Dashboard](https://lookerstudio.google.com/s/kwRni6STt-U)  
 - **R Script & Analysis:** [View R Script](YOUR_R_SCRIPT_LINK)  
 
 ---
